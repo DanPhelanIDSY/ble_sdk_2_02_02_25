@@ -242,7 +242,7 @@ static uint8_t scanResponseData[] =
   'r',
   'e',
   ' ',
-  'S',
+  's',
   'e',
   'n',
   's',
